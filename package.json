@@ -1,0 +1,23 @@
+{
+    "name": "deddyrumapea.github.io",
+    "version": "1.0.0",
+    "description": "Deddy Romnan Rumapea's personal website",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/deddyrumapea/deddyrumapea.github.io.git"
+    },
+    "author": "Deddy Romnan Rumapea",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/deddyrumapea/deddyrumapea.github.io/issues"
+    },
+    "homepage": "https://github.com/deddyrumapea/deddyrumapea.github.io#readme",
+    "devDependencies": {
+        "tailwindcss": "^3.2.7"
+    }
+}
