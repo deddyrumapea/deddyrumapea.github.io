@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.flexbikepoc",
+      "sha256_cert_fingerprints": [
+        "7F:2D:5B:C7:FB:40:BD:21:DC:72:DE:5B:B1:3A:7C:6F:0C:12:54:1F:11:8D:EE:23:A0:51:77:3A:5E:56:36:36"
+      ]
+    }
+  }
+]
